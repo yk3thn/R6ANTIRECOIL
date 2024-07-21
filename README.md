@@ -9,6 +9,10 @@ The most advanced yet easy to use anti recoil for Rainbow Six Siege
 
 <img src="https://github.com/yk3thn/R6ANTIRECOIL/blob/main/adjustableantirecoil.PNG"/>
 
+**Operator Selection**
+
+<img src="https://github.com/yk3thn/R6ANTIRECOIL/edit/main/operatorselection.PNG"/>
+
 ## Prerequisites
 
 [AutoHotkey v1](https://www.autohotkey.com) - v1 NOT v2
