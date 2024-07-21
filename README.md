@@ -5,11 +5,17 @@ The most advanced yet easy to use anti recoil for Rainbow Six Siege. No injectio
 
 ## Features:
 **Adjustable Anti Recoil**
+
 **Operator Selection**
+
 **Hotkey Selection**
+
 **Hotkey Mode Selection**
+
 **Delay Slider**
+
 **Experimental Features**
+
 
 # Prerequisites
 
