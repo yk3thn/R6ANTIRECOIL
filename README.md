@@ -1,7 +1,7 @@
 # R6ANTIRECOIL
 The most advanced yet easy to use anti recoil for Rainbow Six Siege
 
-< width=200 img src="https://github.com/yk3thn/R6ANTIRECOIL/blob/main/r6antirecoilbanner.png"/>
+< width="200" img src="https://github.com/yk3thn/R6ANTIRECOIL/blob/main/r6antirecoilbanner.png"/>
 
 ## Features:
 
