@@ -11,7 +11,7 @@ The most advanced yet easy to use anti recoil for Rainbow Six Siege
 
 **Operator Selection**
 
-<img src="https://github.com/yk3thn/R6ANTIRECOIL/edit/main/operatorselection.PNG"/>
+<img src="https://github.com/yk3thn/R6ANTIRECOIL/blob/main/operatorselection.PNG"/>
 
 ## Prerequisites
 
