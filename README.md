@@ -1,7 +1,7 @@
 # R6ANTIRECOIL
 The most advanced yet easy to use anti recoil for Rainbow Six Siege. No injection, no editing code scripts, fully undetected and external.
 
-<img src="https://github.com/yk3thn/R6ANTIRECOIL/blob/main/r6antirecoilbanner.png" width="750">
+<img src="https://github.com/yk3thn/R6ANTIRECOIL/blob/main/r6ar.gif" width="750">
 
 ## Features:
 **Adjustable Anti Recoil**
