@@ -34,6 +34,6 @@ Windows 10+
 5. If you have your own AutoHotkey script compatible with this program then you can click the folder icon to select it.
 6. Click the mechanical switch icon to select your hotkey (note: all settings save automatically and instantly).
 7. Click the settings cogwheel to pick your hotkey type.
-8. Move the delay slider to your preferred delay (this delay is the time between movements of the mouse.
-9. Select and operator and select a gun.
+8. Move the delay slider to your preferred delay (this delay is the time between movements of the mouse.)
+9. Select and operator and click on the icon of the gun you want to use.
 10. In the shooting range, put numbers into the vertical/horizonal values to tailor it to your sensitivity.
