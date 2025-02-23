@@ -29,7 +29,7 @@ Windows 10+
 
 1. Install all prerequisites above.
 2. Download the [Latest release](www.google.com)
-3. Run R6ANTIRECOIL.exe as administrator (I recommend looking through the source code to verify this is safe to run).
+3. Run R6ANTIRECOIL.exe as administrator
 4. If you had the wrong version of AutoHotkey, the program should detect it and ask to install the correct version.
 5. If you have your own AutoHotkey script compatible with this program then you can click the folder icon to select it.
 6. Click the mechanical switch icon to select your hotkey (note: all settings save automatically and instantly).
